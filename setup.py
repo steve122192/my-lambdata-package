@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setup(
-    name="lambdata-steve122192",
+    name="lambdata-steve122192-1",
     version="0.1",
     author="Steve Reiss",
     author_email="sgreiss92@gmail.com",
