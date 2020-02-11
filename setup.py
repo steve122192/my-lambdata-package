@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setup(
-    name="sreiss-lambdata-functions",
+    name="lambdata-steve122192",
     version="0.1",
     author="Steve Reiss",
     author_email="sgreiss92@gmail.com",
