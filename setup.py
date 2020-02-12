@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setup(
     name="lambdata-steve122192-1",
-    version="0.1",
+    version="0.1.1",
     author="Steve Reiss",
     author_email="sgreiss92@gmail.com",
     description="functions for assignment",
