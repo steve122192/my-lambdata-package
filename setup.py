@@ -9,7 +9,7 @@ REQUIRED = [
 
 setup(
     name="lambdata-steve122192-1",
-    version="0.1.2",
+    version="0.1.3",
     author="Steve Reiss",
     author_email="sgreiss92@gmail.com",
     description="functions for assignment",
